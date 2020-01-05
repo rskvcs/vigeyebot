@@ -70,7 +70,7 @@ templates:
   utter_welcome_user:
   - text: Hi {person}! let me know how can i be of assistance?
   utter_welcome_without_name:
-  - text: Let me know how can i be of assistance?
+  - text: I can answer the following:<br/>1. General queries regarding grievances<br/>2. Role of DARPG<br/>3. Contact details of Nodal officers<br/><br/>Some sample questions which you can ask<br/>1. How do I lodge the grievance?<br/>2. Where can the grievances be sent?<br/>3. What types of grievances not addressed<br/>4. What happens to the grievances?<br/>5. whom should i contact for Karnataka state<br/><br/>Let me know how can I be of help to you. <br/><b>Btw I'm still learning!!!! 😊</b>
   utter_lodge_grievance:
   - text: The grievances can be lodged online on . In cases where internet facility
       is not available or even otherwise, the citizen is free to send her/his grievance
