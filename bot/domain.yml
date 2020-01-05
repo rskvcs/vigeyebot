@@ -1,0 +1,140 @@
+intents:
+- greet
+- bye
+- ask_whoisit
+- ask_howdoing
+- out_of_scope
+- enter_data
+- lodge_grievance
+- grievance_sent
+- grievance_not_taken
+- grievance_dealtwith
+- role_darpg_state
+- role_darpg_central
+- action_nonredress
+- after_lodge_grievance
+- timelimit
+- department_nodal_officer
+- state_nodal_officer
+entities:
+- person
+- departments
+- states
+slots:
+  departments:
+    type: text
+  person:
+    type: text
+  states:
+    type: text
+templates:
+  utter_greet_user:
+  - text: Welcome to VigEye bot
+  utter_ask_name:
+  - text: Before we get started, could you please introduce yourself?
+  utter_great:
+  - text: Great! 👍
+  - text: That's great! 🙌
+  - text: Awesome! 🎉
+  - text: Cool, let's do it 🚀
+  utter_awesome:
+  - text: Awesome, thanks! 👍
+  - text: Sweet, thank you! 😄
+  - text: Thanks! 👌
+  - text: Cool, thank you!
+  utter_ask_howdoing:
+  - text: I'm great! Thanks for asking.
+  - text: I'm good, thanks!
+  - text: A little bit too warm, otherwise fine.
+  utter_out_of_scope:
+  - text: Sorry, I can’t deal with that request.
+  - text: I'm sorry, I can't handle that request.
+  - text: I can't help you with that, I'm sorry.
+  - text: Even a VigEye bot is not completely perfect - it seems like I can't handle
+      that request.
+  utter_ask_whoisit:
+  - text: I'm the VigEye bot! 🤖
+  utter_bye:
+  - text: Goodbye!
+  - text: Bye!
+  - text: Ciao!
+  - text: Bye, was nice talking to you
+  utter_default:
+  - text: Sorry, I didn't get that 🤷🏻‍. Could you please rephrase?
+  - text: I didn't understand, could you rephrase that?
+  - text: I'm sorry, but I didn't understand you. Could you please rephrase what you
+      just said?
+  - text: I'm afraid I didn't get what you just said. Could you rephrase that?
+  - text: I didn't quite get that, could you rephrase your message?
+  - text: Could you rephrase your message? I didn't get it, I'm sorry.
+  utter_welcome_user:
+  - text: Hi {person}! let me know how can i be of assistance?
+  utter_welcome_without_name:
+  - text: Let me know how can i be of assistance?
+  utter_lodge_grievance:
+  - text: The grievances can be lodged online on . In cases where internet facility
+      is not available or even otherwise, the citizen is free to send her/his grievance
+      by Post. There is no prescribed format.<br/>The grievance may be written on
+      any plain sheet of paper or on a Postcard / Inland letter and addressed to the
+      Department.
+  utter_grievance_sent:
+  - text: The grievances can be sent to :<br/>The Department of Administrative Reforms
+      and Public Grievances.(DAR&amp;PG) <a href=\"http://pgportal.gov.in\" target=\"_blank\">(pgportal.gov.in)</a><br/>The
+      Department of Pensions and Pensioners’ Welfare.(DP&amp;PW) <a href=\"http://pgportal.gov.in/pension/\"
+      target=\"_blank\"> (pgportal.gov.in/pension/) </a><br/>The above nodal agencies
+      receive grievances online through <a href=\"http://pgportal.gov.in\" target=\"_blank\">pgportal.gov.in
+      </a>as well as by post or by hand in person, from the public.
+  utter_grievance_not_taken:
+  - text: Subjudice cases or any matter concerning judgment given by any court.<br/>Personal
+      and family disputes<br/>RTI matters<br/>Anything that impacts upon territorial
+      integrity of the country or friendly relations with other countries
+  utter_grievance_dealtwith:
+  - text: Every Central Ministry / Department has designated a Joint Secretary or
+      a Director / Deputy Secretary, as its 'Director of Grievances'. He / She is
+      the nodal officer for redress of grievances on work areas allocated to that
+      particular Ministry / Department.
+  utter_role_darpg_state:
+  - text: All grievances relating to State Governments / Union Territory Administrations
+      and Government of NCT Region of Delhi, are sent to the State/ UT/ NCT Government
+      concerned. Citizens may take up matter regarding pendency of their grievances
+      directly with the State Government concerned also.
+  utter_role_darpg_central:
+  - text: The Department of Administrative Reforms & Public Grievances is the chief
+      policy making, monitoring and coordinating Department for public grievances
+      arising from the work of Ministries/Departments/Organizations of the Government
+      of India. The grievances received in the department are forwarded to the Ministries/Departments
+      concerned. Redressal of grievances is done by respective Ministries/Departments
+      in a decentralized manner. The Department periodically reviews the status of
+      redressal of public grievances under CPGRAMS of Ministries/Departments for speedy
+      disposal of grievances / complaints.
+  utter_action_nonredress:
+  - text: You may take up the matter with the Director of Public Grievances of the
+      Ministry/Department concerned whose details are available on the pgportal.
+  utter_after_lodge_grievance:
+  - text: The grievance is acknowledged online or by post. A unique registration number
+      is given to each grievance.
+  utter_timelimit:
+  - text: Sixty (60) days. In case of delay an interim reply with reasons for delay
+      is required to be given.
+actions:
+- action_greet_by_time
+- utter_greet_user
+- utter_ask_name
+- utter_great
+- utter_awesome
+- utter_ask_howdoing
+- utter_out_of_scope
+- utter_ask_whoisit
+- utter_bye
+- greet_user
+- utter_lodge_grievance
+- utter_grievance_sent
+- utter_grievance_not_taken
+- utter_grievance_dealtwith
+- utter_role_darpg_state
+- utter_role_darpg_central
+- utter_action_nonredress
+- utter_after_lodge_grievance
+- utter_timelimit
+- action_department_contact
+- action_state_contact

@@ -1,0 +1,625 @@
+[
+ {
+   "sno": 1,
+   "organization": "Administrative Reforms and PG",
+   "nodal_officer": "Prisca Mathew<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01123401429    <br/>pmathew.edu[at]nic[dot]in"
+ },
+ {
+   "sno": 2,
+   "organization": "Agriculture and Cooperation",
+   "nodal_officer": "Amitabh Gautam<br/>Joint Secretary PG",
+   "address": "Room No. 350, Krishi Bhavan New Delhi",
+   "phone": "01123382454    <br/>amitabh.gautam[at]gov[dot]in"
+ },
+ {
+   "sno": 3,
+   "organization": "Agriculture Research and Education",
+   "nodal_officer": ".<br/>Director",
+   "address": "R No. 102, Krishi Bhawan New Delhi",
+   "phone": "23382375       <br/>dirdare.icar[at]nic[dot]in"
+ },
+ {
+   "sno": 4,
+   "organization": "Animal Husbandry, Dairying",
+   "nodal_officer": "Shri G.N. Singh<br/>Joint Secretary GC",
+   "address": "",
+   "phone": "01123389620    <br/>gn.singh13[at]nic[dot]in"
+ },
+ {
+   "sno": 5,
+   "organization": "Atomic Energy",
+   "nodal_officer": "Shri Sanjay Kumar<br/>Joint Secretary AA",
+   "address": "",
+   "phone": "02222840309    <br/>jsaa[at]dae.gov[dot]in"
+ },
+ {
+   "sno": 6,
+   "organization": "Ayush",
+   "nodal_officer": "Shri S.K. Ahuja<br/>Director",
+   "address": "",
+   "phone": "01124651644    <br/>sk.ahuja07[at]nic[dot]in"
+ },
+ {
+   "sno": 7,
+   "organization": "Bio Technology",
+   "nodal_officer": "Shri J P Meena<br/>DS - PGRC",
+   "address": "",
+   "phone": "01124362885    <br/>jp.meena[at]nic[dot]in"
+ },
+ {
+   "sno": 8,
+   "organization": "Central Board of Direct Taxes (Income Tax)",
+   "nodal_officer": "P.Dam Kanunjna<br/>Addl. Director E-Services",
+   "address": "",
+   "phone": "01123416133    <br/>delhi.dittps2[at]incometax.gov[dot]in"
+ },
+ {
+   "sno": 9,
+   "organization": "Central Board of Excise and Customs",
+   "nodal_officer": "Shri Sunil Kumar Sinha<br/>Commissioner Coordination",
+   "address": "",
+   "phone": "01123092038    <br/>cpgrams-cbec[at]nic[dot]in"
+ },
+ {
+   "sno": 10,
+   "organization": "Chemicals and Petrochemicals",
+   "nodal_officer": "Smt. Godhuli Mukherjee<br/>Economic Advisor",
+   "address": "",
+   "phone": "01123387761    <br/>godhuli.mukherjee[at]gov[dot]in"
+ },
+ {
+   "sno": 11,
+   "organization": "Civil Aviation",
+   "nodal_officer": "Shri Angshumali Rastogi<br/>Joint Secretary and PGO",
+   "address": "",
+   "phone": "01124610372    <br/>angshumali.rastogi[at]gov[dot]in"
+ },
+ {
+   "sno": 12,
+   "organization": "Coal",
+   "nodal_officer": "Shri Animesh Bharti<br/>Economic Adviser",
+   "address": "Ministry of Coal, 5th Floor , Lok Nayak Bhawan, Khan Market. New Delhi",
+   "phone": "24655949       <br/>adviser.moc[at]nic[dot]in"
+ },
+ {
+   "sno": 13,
+   "organization": "Commerce",
+   "nodal_officer": "Ms. Nidhi Mani Tripathi<br/>Joint Secretary PG",
+   "address": "",
+   "phone": "01123061971    <br/>jspg-doc[at]gov[dot]in"
+ },
+ {
+   "sno": 14,
+   "organization": "Consumer Affairs",
+   "nodal_officer": "Shri Sita Ram Meena<br/>Director",
+   "address": "Room No.456A Krishi Bhavan New Delhi  New Delhi",
+   "phone": "23387737       <br/>dirpg-ca[at]gov[dot]in"
+ },
+ {
+   "sno": 15,
+   "organization": "Corporate Affairs",
+   "nodal_officer": "Shri V. K. Khubchandani<br/>Director",
+   "address": "",
+   "phone": "01123389602    <br/>vijay.k.khubchandani[at]mca.gov[dot]in"
+ },
+ {
+   "sno": 16,
+   "organization": "Culture",
+   "nodal_officer": "Shri Padam Lochan Sahu<br/>Joint Secretary",
+   "address": "",
+   "phone": "01123381396    <br/>plsahu.icas[at]nic[dot]in"
+ },
+ {
+   "sno": 17,
+   "organization": "Defence",
+   "nodal_officer": "Dr. Meenakshi Jolly<br/>JS MIS",
+   "address": "",
+   "phone": "01123017828    <br/>m.jolly[at]nic[dot]in"
+ },
+ {
+   "sno": 18,
+   "organization": "Defence Finance",
+   "nodal_officer": "Shri Rabindra Kumar Karna<br/>Addl FA RK &amp; Jt. Secret",
+   "address": "Room No 131B, South Block DHQ PO New Delhi-110011",
+   "phone": "23011250"
+ },
+ {
+   "sno": 19,
+   "organization": "Defence Production",
+   "nodal_officer": "Shri Gaurav Sharma<br/>Deputy Secretary Coord DDP",
+   "address": "",
+   "phone": "01123013705    <br/>gauravsharma-cwc[at]gov[dot]in"
+ },
+ {
+   "sno": 20,
+   "organization": "Defence Research and Development",
+   "nodal_officer": "Shri GS Gupta<br/>Sc G and Director Personnel",
+   "address": "",
+   "phone": "01123007218    <br/>dte_pers[at]hqr.drdo[dot]in"
+ },
+ {
+   "sno": 21,
+   "organization": "Development of North Eastern Region",
+   "nodal_officer": "Nehjamang  Simte<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01123794689    <br/>nsymte.65[at]gov[dot]in"
+ },
+ {
+   "sno": 22,
+   "organization": "Drinking Water and Sanitation",
+   "nodal_officer": "Samir Kumar<br/>Economic Adviser",
+   "address": "Pt. Deendayal Antyodaya  Bhawan,12th floor, CGO Complex,Lodhi Road, New Delhi",
+   "phone": "24366528"
+ },
+ {
+   "sno": 23,
+   "organization": "Earth Sciences",
+   "nodal_officer": "V K Paul<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01124669543    <br/>paul.vk[at]nic[dot]in"
+ },
+ {
+   "sno": 24,
+   "organization": "Economic Affairs",
+   "nodal_officer": "Shri K Rajaraman<br/>Add. Secretary,Inv & Admin",
+   "address": "Room No. 129-B North Block, New Delhi",
+   "phone": "23092420"
+ },
+ {
+   "sno": 25,
+   "organization": "Electronics & Information Technology",
+   "nodal_officer": "Ms. Simmi Chaudhary<br/>Economic Adviser",
+   "address": "6, CGO Complex, Electronics Niketan, New Delhi",
+   "phone": "01124361951    <br/>s.chaudhary[at]nic[dot]in"
+ },
+ {
+   "sno": 26,
+   "organization": "Empowerment of Persons with Disabilities",
+   "nodal_officer": "Jagdish Kumar<br/>Senior Consultant",
+   "address": "505, B-I Block Paryavaran Bhavan, CGO Complex New Delhi",
+   "phone": "24369023"
+ },
+ {
+   "sno": 27,
+   "organization": "Environment, Forest and Climate Change",
+   "nodal_officer": "Smt. Geeta Menon<br/>Joint Secretary",
+   "address": "",
+   "phone": "01124695281    <br/>menong.cag[at]gov[dot]in"
+ },
+ {
+   "sno": 28,
+   "organization": "Ex Servicemen Welfare",
+   "nodal_officer": "Shri Pudi Hari Prasad<br/>Joint Secretary ESW",
+   "address": "99-A South Block DHQ PO New Delhi",
+   "phone": "23011804"
+ },
+ {
+   "sno": 29,
+   "organization": "Expenditure",
+   "nodal_officer": "Shri Rajeev Ranjan<br/>Additional Secretary P.F.1 Division",
+   "address": "",
+   "phone": "01123094811    <br/>ranjan.rajeev[at]gov[dot]in"
+ },
+ {
+   "sno": 30,
+   "organization": "External Affairs",
+   "nodal_officer": "Arun K. Chatterjee<br/>Joint Secretary PSP and CPO",
+   "address": "PSP Division, Patiala House Annexe, Tilak Marg, New Delhi",
+   "phone": "23387013       <br/>jscpo[at]mea.gov[dot]in"
+ },
+ {
+   "sno": 31,
+   "organization": "Fertilizers",
+   "nodal_officer": "Shri Vinay Kumar Pandey<br/>Director  Coordination",
+   "address": "",
+   "phone": "01123384889    <br/>vinay.pandey[at]nic[dot]in"
+ },
+ {
+   "sno": 32,
+   "organization": "Financial Services (Banking Division)",
+   "nodal_officer": "Lalit Kumar Chandel<br/>Economic Adviser",
+   "address": "",
+   "phone": "01123747119    <br/>no-sobo3-dfs[at]nic[dot]in"
+ },
+ {
+   "sno": 33,
+   "organization": "Financial Services (Insurance Division)",
+   "nodal_officer": "Lalit Kumar Chandel<br/>Economic Adviser",
+   "address": "",
+   "phone": "01123747119    <br/>no-sobo3-dfs[at]nic[dot]in"
+ },
+ {
+   "sno": 34,
+   "organization": "Financial Services (Pension Reforms)",
+   "nodal_officer": "Madnesh Kumar Mishra<br/>Joint Secretary",
+   "address": "Room No. 3, 3rd Floor,  Jeevandeep Building New Delhi",
+   "phone": "23340673       <br/>madnesh.mishra[at]gov[dot]in"
+ },
+ {
+   "sno": 35,
+   "organization": "Fisheries",
+   "nodal_officer": "Sagar Mehra<br/>Joint Secretary",
+   "address": "Room No. 228 Krishi Bhawan New Delhi",
+   "phone": "0112338868     <br/>sagar.mehra[at]nic[dot]in"
+ },
+ {
+   "sno": 36,
+   "organization": "Food and Public Distribution",
+   "nodal_officer": "Shri Edwin Kulbhushan Majhi<br/>Addl. Secretary Storage and PG",
+   "address": "Room No. 184 Krishi Bhavan New Delhi",
+   "phone": "23383406       <br/>ek.majhi[at]nic[dot]in"
+ },
+ {
+   "sno": 37,
+   "organization": "Food Processing Industries",
+   "nodal_officer": "Shri. Minhaj Alam<br/>Jt. Secretary",
+   "address": "",
+   "phone": "01126492176    <br/>minhaj[at]ias.nic[dot]in"
+ },
+ {
+   "sno": 38,
+   "organization": "Health & Family Welfare",
+   "nodal_officer": "Shri Sudhir Kumar<br/>Joint Secretary",
+   "address": "",
+   "phone": "01123061740    <br/>kumars14[at]nic[dot]in"
+ },
+ {
+   "sno": 39,
+   "organization": "Health Research",
+   "nodal_officer": "Shri D.R. Meena<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01123736901    <br/>daulat.meena[at]gov[dot]in"
+ },
+ {
+   "sno": 40,
+   "organization": "Heavy Industry",
+   "nodal_officer": "Dr. A.K. Panda<br/>Economic Adviser",
+   "address": "",
+   "phone": "01123062714    <br/>akshya.panda[at]nic[dot]in"
+ },
+ {
+   "sno": 41,
+   "organization": "Higher Education",
+   "nodal_officer": "Shri V.L.V.S.S.Subba Rao<br/>Economic Advisor",
+   "address": "Ministry of Human Resource Development Room No. 107, D Wing Shastri Bhawan, New Delhi",
+   "phone": "23384245       <br/>subba.rao61[at]nic[dot]in"
+ },
+ {
+   "sno": 42,
+   "organization": "Home Affairs",
+   "nodal_officer": "Saheli Ghosh Roy<br/>Joint Secretary  C&amp;IC",
+   "address": "Room No. 188, North Block, New Delhi",
+   "phone": "23092392       <br/>jscpg-mha[at]nic[dot]in"
+ },
+ {
+   "sno": 43,
+   "organization": "Housing and Urban Affairs",
+   "nodal_officer": "Shri Manish Thakur<br/>Joint Secretary",
+   "address": "",
+   "phone": "01123061558    <br/>manish.thakur[at]nic[dot]in"
+ },
+ {
+   "sno": 44,
+   "organization": "Industrial Policy & Promotion",
+   "nodal_officer": "Narender Kumar<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01123063449    <br/>narender.kumar24[at]nic[dot]in"
+ },
+ {
+   "sno": 45,
+   "organization": "Information and Broadcasting",
+   "nodal_officer": "P. K. Abdul Kareem<br/>Economic Advisor",
+   "address": "",
+   "phone": "01123383374    <br/>pka.kareem[at]nic[dot]in"
+ },
+ {
+   "sno": 46,
+   "organization": "Investment & Public Asset Management",
+   "nodal_officer": "Shri N V Reddy<br/>Joint Secretary",
+   "address": "Room No.404, 4th Floor, Block -11, CGO Complex, Lodhi Road, New Delhi",
+   "phone": "243678776      <br/>nv.reddy[at]nic[dot]in"
+ },
+ {
+   "sno": 47,
+   "organization": "Justice",
+   "nodal_officer": "Smt Sushma Taishete<br/>Joint  Secretary",
+   "address": "Jaisalmer House, 26 Mansingh Road, New Delhi",
+   "phone": "01123385020    <br/>jsst-doj[at]gov[dot]in"
+ },
+ {
+   "sno": 48,
+   "organization": "Labour and Employment",
+   "nodal_officer": "Shri J.K. Singh<br/>Deputy Secretary and Nodal PGO",
+   "address": "",
+   "phone": "01123711120    <br/>dirpg-mole[at]gov[dot]in"
+ },
+ {
+   "sno": 49,
+   "organization": "Land Resources",
+   "nodal_officer": "Shri D.R. Sharma<br/>Deputy Secretary  Admin.",
+   "address": "",
+   "phone": "01123062722    <br/>devraj.sharma[at]nic[dot]in"
+ },
+ {
+   "sno": 50,
+   "organization": "Legal Affairs",
+   "nodal_officer": "Shri Rama Nand<br/>Under Secretary",
+   "address": "",
+   "phone": "01123387168    <br/>ramanand.60[at]gov[dot]in"
+ },
+ {
+   "sno": 51,
+   "organization": "Legislative Department",
+   "nodal_officer": "Shri B.M. Sharma<br/>Deputy Secretar",
+   "address": "Shastri Bhavan New Delhi",
+   "phone": ""
+ },
+ {
+   "sno": 52,
+   "organization": "Micro Small and Medium  Enterprises",
+   "nodal_officer": "Shri Rajiv Malik<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01123063198    <br/>rajiv.malik[at]nic[dot]in"
+ },
+ {
+   "sno": 53,
+   "organization": "Mines",
+   "nodal_officer": "Shri Alok Chandra<br/>Economic Advisor",
+   "address": "Room No. 308, A wing, Shastri Bhavan, New Delhi",
+   "phone": "23384592"
+ },
+ {
+   "sno": 54,
+   "organization": "Minority Affairs",
+   "nodal_officer": "Ravinder Kumar<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01124360851    <br/>xxxxxxx[at]gov[dot]in"
+ },
+ {
+   "sno": 55,
+   "organization": "New and Renewable Energy",
+   "nodal_officer": "Ms. Alka Joshi<br/>Dy. Secretary",
+   "address": "Room No. 1027A,  Paryavaran Bhawan CGO Complex, Lodi Road, N Delhi",
+   "phone": "243607071027   <br/>alka.mnre[at]gov[dot]in"
+ },
+ {
+   "sno": 56,
+   "organization": "NITI Aayog",
+   "nodal_officer": "Shri Alok Kumar<br/>Adviser  OMandC",
+   "address": "Room No. 264, NITI Aayog, Sansad Marg, New Delhi",
+   "phone": "23096613       <br/>alokkumar.up[at]nic[dot]in"
+ },
+ {
+   "sno": 57,
+   "organization": "O/o the Comptroller & Auditor General of India",
+   "nodal_officer": "AC N<br/>Asstt. C. &amp; A. G. N",
+   "address": "9, Deen Dayal Upadhayaya Marg, New Delhi",
+   "phone": "acn[at]cag.gov[dot]in"
+ },
+ {
+   "sno": 58,
+   "organization": "Official Language",
+   "nodal_officer": "Dr. Bipin Behari<br/>Joint Secretary",
+   "address": "NDCC-II Bhawan, Jai Singh Road New Delhi",
+   "phone": "01123438130    <br/>jsol[at]nic[dot]in"
+ },
+ {
+   "sno": 59,
+   "organization": "Panchayati Raj",
+   "nodal_officer": "Smt. Sujata Sharma<br/>Economic Advisor",
+   "address": "Room No. 127, First Floor, Sardar Patel Bhawan, Parliament Street, New Delhi",
+   "phone": "23746560"
+ },
+ {
+   "sno": 60,
+   "organization": "Parliamentary Affairs",
+   "nodal_officer": "Dr. Satya Prakash<br/>Joint Secretary",
+   "address": "87, Parliament House New Delhi",
+   "phone": "23034734       <br/>jsmpa[at]nic[dot]in"
+ },
+ {
+   "sno": 61,
+   "organization": "Pensions and Pensioners Welfare",
+   "nodal_officer": "Smt. Seema Gupta<br/>Director",
+   "address": "8th floor Janpath Bhawan, B-wing, Janpath Bhawan, Janpath, New Delhi",
+   "phone": "01123350012    <br/>seema.gupta75[at]gov[dot]in"
+ },
+ {
+   "sno": 62,
+   "organization": "Personnel and Training",
+   "nodal_officer": "Ms. Rashmi Chowdhary<br/>Joint  Secretary   Admn",
+   "address": "",
+   "phone": "01123094010    <br/>rashmi.edu[at]nic[dot]in"
+ },
+ {
+   "sno": 63,
+   "organization": "Petroleum and Natural Gas",
+   "nodal_officer": "Shri Gaurav Kumar<br/>Director",
+   "address": "",
+   "phone": "01123383678    <br/>kumar.gaurav[at]nic[dot]in"
+ },
+ {
+   "sno": 64,
+   "organization": "Pharmaceutical",
+   "nodal_officer": "Hara Kumar Hajong<br/>Economic Adviser",
+   "address": "",
+   "phone": "01123381927    <br/>hk.hajong[at]nic[dot]in"
+ },
+ {
+   "sno": 65,
+   "organization": "Posts",
+   "nodal_officer": "Ms. Pratibha Nath<br/>DDG PG",
+   "address": "Room No. 312, Dak Bhavan, Parliament Street New Delhi",
+   "phone": "23096087"
+ },
+ {
+   "sno": 66,
+   "organization": "Power",
+   "nodal_officer": "Shri Aniruddha Kumar<br/>Joint Secretary",
+   "address": "",
+   "phone": "01123714842    <br/>aniruddha.k[at]nic[dot]com"
+ },
+ {
+   "sno": 67,
+   "organization": "Public Enterprises",
+   "nodal_officer": "Shri Nitin Aggrawal<br/>Joint Director",
+   "address": "",
+   "phone": "01124364191    <br/>nitin.a[at]gov[dot]in"
+ },
+ {
+   "sno": 68,
+   "organization": "Railways, ( Railway Board)",
+   "nodal_officer": "SHRI VIVEK SRIVASTAVA<br/>EXECUTIVE DIRECTOR PG",
+   "address": "ROOM NO. 507A RAIL BHAVAN RAISINA ROAD NEW DELHI",
+   "phone": "23386203       <br/>edpg[at]rb.railnet.gov[dot]in"
+ },
+ {
+   "sno": 69,
+   "organization": "Revenue",
+   "nodal_officer": "Shri Lalit Wadhwa<br/>Deputy Secretary Pers",
+   "address": "Room No. 66-A North Block, New Delhi",
+   "phone": "01123092282    <br/>dspers.rev[at]gov[dot]in"
+ },
+ {
+   "sno": 70,
+   "organization": "Road Transport and Highways",
+   "nodal_officer": "Shri Kamlesh Chaturvedi<br/>Joint Secretary",
+   "address": "Room No. 323,Transport Bhawan, Sansad Marg New Delhi",
+   "phone": "23753991       <br/>k.chaturvedi[at]gov[dot]in"
+ },
+ {
+   "sno": 71,
+   "organization": "Rural Development",
+   "nodal_officer": "Ms. Alka Upadhyay<br/>Joint Secretary PG &amp; CVO",
+   "address": "Room No. 249, 2nd floor, Krishi Bhawan New Delhi",
+   "phone": "23383553"
+ },
+ {
+   "sno": 72,
+   "organization": "School Education and Literacy",
+   "nodal_officer": "Shri M. C. Worthing<br/>Deputy Secretary",
+   "address": "Room No. 423 C Wing, Department of School Educatio n and Literacy,  Ministry of Human Resource Develo pment,Shastri Bhawan New Delhi",
+   "phone": "01123385489    <br/>worthing.mc[at]gov[dot]in"
+ },
+ {
+   "sno": 73,
+   "organization": "Science and Technology",
+   "nodal_officer": "Smt. Anju Bhalla<br/>Joint Secretary PG",
+   "address": "",
+   "phone": "01126516077    <br/>anju_bhalla[at]nic[dot]in"
+ },
+ {
+   "sno": 74,
+   "organization": "Scientific & Industrial Research",
+   "nodal_officer": "Shri K.R. Vaidheeswaran<br/>Joint Secretary Admn.",
+   "address": "Anusandhan Bhawan, Rafi Marg, New Delhi",
+   "phone": "23716582       <br/>jsa[at]csir.res[dot]in"
+ },
+ {
+   "sno": 75,
+   "organization": "Shipping",
+   "nodal_officer": "Lukas L Kamsuan<br/>Joint Secretary",
+   "address": "",
+   "phone": "01123710220    <br/>lucasl.kamsuan[at]nic[dot]in"
+ },
+ {
+   "sno": 76,
+   "organization": "Skill Development and Entrepreneurship",
+   "nodal_officer": "Sh. Narendra Singh<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01123465820    <br/>narendra.singh64[at]gov[dot]in"
+ },
+ {
+   "sno": 77,
+   "organization": "Social Justice and Empowerment",
+   "nodal_officer": "Sh Prabhudas Xalxo<br/>Deputy Secretary  PG",
+   "address": "",
+   "phone": "01123386472    <br/>prabhudas.xalxo[at]nic[dot]in"
+ },
+ {
+   "sno": 78,
+   "organization": "Space",
+   "nodal_officer": "Smt. Sandhya Venugopal Sharma<br/>Joint Secretary   Personnel",
+   "address": "",
+   "phone": "08022172300    <br/>sandhyavs[at]isro.gov[dot]in"
+ },
+ {
+   "sno": 79,
+   "organization": "Sports",
+   "nodal_officer": "PGO<br/>PGO",
+   "address": "Shastri Bhawan New Delhi",
+   "phone": ""
+ },
+ {
+   "sno": 80,
+   "organization": "Statistics and Programme Implementation",
+   "nodal_officer": "Shri Arun Kumar Yadav<br/>Joint Secretary",
+   "address": "Sardar Patel Bhavan Sansad Marg New Delhi",
+   "phone": "01123746725    <br/>js-mospi[at]nic[dot]in"
+ },
+ {
+   "sno": 81,
+   "organization": "Steel",
+   "nodal_officer": "Shri Puneet Kansal<br/>Joint Secretary",
+   "address": "Room No. 296 Udyog Bhavan, New Delhi",
+   "phone": "23061896       <br/>js1-steel[at]gov[dot]in"
+ },
+ {
+   "sno": 82,
+   "organization": "Telecommunications",
+   "nodal_officer": "Shri Arjun Singh<br/>Deputy Director General PG",
+   "address": "Room No.612,6th Floor Mahanagar Doorsanchar Bhawan Near Zakir Hussain College Old Minto Road New Delhi",
+   "phone": "01123221231    <br/>ddgpg-dot[at]nic[dot]in"
+ },
+ {
+   "sno": 83,
+   "organization": "Textiles",
+   "nodal_officer": "Sh. Jogiranjan Panigrahi<br/>Joint Secretary",
+   "address": "",
+   "phone": "01123063069    <br/>jogiranjanp.63[at]nic[dot]in"
+ },
+ {
+   "sno": 84,
+   "organization": "Tourism",
+   "nodal_officer": "Niraj Sharan<br/>Assistant Director General",
+   "address": "R.No. 23, C-1 Hutments Dalhousie Road New Delhi",
+   "phone": "01123012805    <br/>neeraj.sharan[at]nic[dot]in"
+ },
+ {
+   "sno": 85,
+   "organization": "Tribal Affairs",
+   "nodal_officer": "Shri A. K. Singh<br/>Joint Secretary",
+   "address": "Room No. 295, IInd Floor, August Kranti Bhawan Ministry of Tribal Affairs New Delhi",
+   "phone": "26160312       <br/>singh.ak2862[at]nic[dot]in"
+ },
+ {
+   "sno": 86,
+   "organization": "Unique Identification Authority of India",
+   "nodal_officer": "Smt Anjana Ray Chaudhuri<br/>Deputy Director",
+   "address": "Unique Identification Authority of India, HQ 3nd F loor, Bangla Sahib Road Behind Kali Mandir, New De lhi",
+   "phone": "01123478613    <br/>anjana.ray[at]uidai.net[dot]in"
+ },
+ {
+   "sno": 87,
+   "organization": "Water Resources, River Development & Ganga Rejuvenuation,",
+   "nodal_officer": "Inderjit Hadda<br/>Director",
+   "address": "",
+   "phone": "01123074005    <br/>dircoord-mowr[at]nic[dot]in"
+ },
+ {
+   "sno": 88,
+   "organization": "Women and Child Development",
+   "nodal_officer": "Shri S.R. Meena<br/>Deputy Secretary",
+   "address": "",
+   "phone": "01123340418    <br/>shiv.meena62[at]nic[dot]in"
+ },
+ {
+   "sno": 89,
+   "organization": "Youth Affairs",
+   "nodal_officer": "DEBANJANA RAY<br/>DEPUTY SECRETARY",
+   "address": "",
+   "phone": "01123387034    <br/>debanjana.ray[at]gov[dot]in"
+ }
+]

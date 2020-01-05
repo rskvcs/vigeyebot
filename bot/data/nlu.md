@@ -1,0 +1,932 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there ;)
+- I said, helllllloooooO!!!!
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- jojojo
+- hey dude
+- hello it is me again
+- what up
+- jop
+- hi friend
+- hi there it's me
+- good evening
+- good afternoon
+
+## intent:bye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye #slay
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+- tschüssikowski
+- bye!
+
+## intent:ask_whoisit
+- who is this
+- who am i talking to
+- what's your name
+- who am i speaking with
+- who r u
+- what's your name bot
+- whats ur name
+- what are you called?
+- who is talking?
+- who speaks?
+- who talks?
+- who are you and what do you want from me
+- who are you?
+- who is it?
+- who are u?
+- who are you
+- I want to know who you are
+- who are y
+- yes but who are you in your heart
+- are you a bot?
+- who is this?
+- hi! what's your name?
+
+## intent:ask_howdoing
+- Ahoy matey how are you?
+- are you alright
+- are you having a good day
+- Are you ok?
+- are you okay
+- Do you feel good?
+- how are things going
+- how are things with you?
+- How are things?
+- how are you
+- how are you doing
+- how are you doing this morning
+- how are you feeling
+- how are you today
+- How are you?
+- how do you do?
+- how have you been
+- how is it going
+- how is your day
+- how is your day going
+- how is your evening
+- How was your day?
+- How's it going
+- How's it hanging?
+- how's life
+- how's life been treating you?
+- How's life treating you friend?
+- how's your day going
+- How've you been?
+- I'm fine and you
+- is everything all right
+- Is everything ok?
+- is everything okay
+- what about your day
+- What's going on?
+- what's good
+- What's new?
+- What's up man
+- What's up
+- how are you?
+- Do you have a great day?
+- how are you doing today my sweet friend
+- how are you doing?
+- how are u
+
+## intent:out_of_scope
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- restaurants
+- restaurant
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- i want a french restaurant
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with _your_ request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- Is Rasa really smart?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+- do you have a phone number?
+- where do you live?
+- how are akela's cats doing?
+- but I just told you that :(
+- Why don’t you answer?
+- But you're an english site :(
+- can you help me to build a bot
+
+## intent:enter_data
+- [Sunil](person)
+- [sunil](person)
+- My name is [Sunil](person)
+- my name is [adam](person)
+- I'm [Alex](person)
+- i'm [Jim](person)
+- [Philip](person)
+- [Mr. Mop](person)
+- [John Smith](person)
+- [Jenny](person)
+- [Dr. Phil](person)
+- [klaus klausson](person)
+- [philipp](person)
+- [linda](person)
+- i'm [donezo](person)
+- My name is [Tom](person)
+- [Juste P](person)
+- It is [Sunil](person)
+- It is [Adam](person)
+- It is [adam](person)
+- It is [Phil](person)
+- It is [Dr.Phil](person)
+- It is [Dr. Phil](person)
+- It is [Dr Phil](person)
+- It is [Raphael](person)
+- It is [Udit](person)
+- It is [Rakesh](person)
+- My name is [Adam](person)
+- My name is [adam](person)
+- My name is [Phil](person)
+- My name is [Raphael](person)
+- My name is [Udit](person)
+- My name is [Rakesh](person)
+- [alex](person)
+- [subbu](person)
+- [adam](person)
+- [Phil](person)
+- [dr Phil](person)
+- [dr. Phil](person)
+- [raphael](person)
+- [udit](person)
+- [rakesh](person)
+- my name is [sunil](person)
+- my name is [subbu](person)
+- my name is [Phil](person)
+- my name is [dr. Phil](person)
+- my name is [dr.Phil](person)
+- my name is [dr Phil](person)
+- my name is [raphael](person)
+- my name is [udit](person)
+- my name is [rakesh](person)
+- [Alex](person)
+- [Dr Phil](person)
+- [Dr.Phil](person)
+- [dr.Phil](person)
+- [Udit](person)
+- [Rakesh](person)
+- [Raphael](person)
+- I'm [Sunil](person)
+- i'm [sunil](person)
+- I'm [adam](person)
+- i'm [adam](person)
+- i'm [alex](person)
+- I'm [Phil](person)
+- I'm [Dr. Phil](person)
+- I'm [Dr.Phil](person)
+- I'm [Dr Phil](person)
+- i'm [Phil](person)
+- i'm [dr. Phil](person)
+- i'm [dr.Phil](person)
+- i'm [dr Phil](person)
+- I'm [Udit](person)
+- i'm [udit](person)
+- my name is [julian](person)
+- hi i'm [Phil](person)
+- Hi I'm [Phil](person)
+- Hi i'm [Phil](person)
+- my name is [Alex](person)
+- i'm [avril](person)
+- my name is [Dean](person)
+- my name is [shripada shasrty](person)
+- my name is [Sunil](person)
+- my name is [sheldon](person)
+- my name is [arya][name]
+- my name is [gaurav](person)
+- my name is [mahesh](person)
+- my name is [ariel](person)
+- my name is [Adam](person)
+- my name is [aryna](person)
+- my name is [Aryan](person)
+- [amit](person)
+- [Rittika](person)
+- my name is [howard](person)
+- i'm [alexia](person)
+- my name is [vipin](person)
+- my name is [alex](person)
+- i'm [vishnu](person)
+- hi i'm [manoj](person)
+- hi my name is [Vishnu](person)
+- my name is jose
+- my name is [Jose](person)
+- my name is [anthony](person)
+- hi i'm [shekar](person)
+- [Sneha](person)
+- hi my name is [Abdul](person)
+- i'm abul
+- hi my name is [abul](person)
+- my name is abul
+- hi i'm [peter](person)
+- my name is [Tony](person)
+- hi i'm [tony](person)
+- my name is [vishnu](person)
+- i'm called [Sunil](person)
+- i'm called [Penny](person)
+- my name is [narenda](person)
+- my name is [simon](person)
+- my name is biren
+- my name is john snow
+- i'm [Einstein](person)
+- askdjaldjladj
+- my name is birendra
+- Joseph
+- my name is [R. Sri Kumar](person)
+- my name is [rajaseevan](person)
+
+## intent:lodge_grievance
+- How do I lodge the grievance?
+- lodge the grievance?
+- lodge the complaint
+- add the grievance
+- How do I lodge the grievance?
+
+## intent:grievance_sent
+- Where can the grievances be sent?
+- Where are the grievances sent?
+- grievances sent?
+- where should i post the grievances?
+- where should i post the grievance
+- Where can the grievances be sent?
+
+## intent:grievance_not_taken
+- What are the types of grievances which are not taken up for redress by the Department
+- What types of grievances not addressed
+- what type of grievance not taken
+- what type of complaints are not addressed
+- What are the types of grievances which are not taken up for redress by the Department?
+- What are the types of grievances which are not taken up for redress by the Department
+
+## intent:grievance_dealtwith
+- What happens to the grievances? How are the grievances dealt with in Central Ministries/Departments?
+- What happens to the grievances?
+- How are the grievances dealt?
+- What happens to the complaints?
+- What happens to the grievances?
+- What happens to the grievances? How are the grievances dealt with in Central Ministries/Departments?
+
+## intent:role_darpg_state
+- What is the role of Department of Administrative Reforms and Public Grievances (DARPG) with reference to the grievances concerning State Government?
+- Role of DARPG concerning state government
+- What is the role of Department of Administrative Reforms and Public Grievances (DARPG) with reference to the grievances concerning State Government?
+
+## intent:role_darpg_central
+- What is the role of Department of Administrative Reforms and Public Grievances (DARPG) with reference to the grievances concerning Central Ministries/Departments/ Organizations?
+- Role of DARPG concerning central ministries
+- role of darpg concerning departments
+- role of darpg concerning organizations
+- Role of DARPG concerning central ministries
+
+## intent:action_nonredress
+- What action can be taken by me in case of non-redress of my grievance within the prescribed time?
+- what should i do if my grievance is not redressed
+- what should i do if my grievance is not redressed
+
+## intent:after_lodge_grievance
+- What happens when I lodge the grievance?
+- is there an acknowledgement
+- What happens when I lodge the grievance?
+
+## intent:timelimit
+- What is the time limit for redress of grievance?
+- how long will it take to redress?
+- how long will it take to redress?
+
+## intent:state_nodal_officer
+- whom should i contact for [Andaman & Nicobar](states) state
+- who is the nodal officer for [Andaman & Nicobar](states) state
+- how do i contact [Andaman & Nicobar](states) state
+- whom should i contact for [Andhra Pradesh](states) state
+- who is the nodal officer for [Andhra Pradesh](states) state
+- how do i contact [Andhra Pradesh](states) state
+- whom should i contact for [Arunachal Pradesh](states) state
+- who is the nodal officer for [Arunachal Pradesh](states) state
+- how do i contact [Arunachal Pradesh](states) state
+- whom should i contact for [Assam](states) state
+- who is the nodal officer for [Assam](states) state
+- how do i contact [Assam](states) state
+- whom should i contact for [Bihar](states) state
+- who is the nodal officer for [Bihar](states) state
+- how do i contact [Bihar](states) state
+- whom should i contact for [Chattisgarh](states) state
+- who is the nodal officer for [Chattisgarh](states) state
+- how do i contact [Chattisgarh](states) state
+- whom should i contact for [Goa](states) state
+- who is the nodal officer for [Goa](states) state
+- how do i contact [Goa](states) state
+- whom should i contact for [Gujarat](states) state
+- who is the nodal officer for [Gujarat](states) state
+- how do i contact [Gujarat](states) state
+- whom should i contact for [Haryana](states) state
+- who is the nodal officer for [Haryana](states) state
+- how do i contact [Haryana](states) state
+- whom should i contact for [Himachal Pradesh](states) state
+- who is the nodal officer for [Himachal Pradesh](states) state
+- how do i contact [Himachal Pradesh](states) state
+- whom should i contact for [Jammu and Kashmir](states) state
+- who is the nodal officer for [Jammu and Kashmir](states) state
+- how do i contact [Jammu and Kashmir](states) state
+- whom should i contact for [Jharkhand](states) state
+- who is the nodal officer for [Jharkhand](states) state
+- how do i contact [Jharkhand](states) state
+- whom should i contact for [Karnataka](states) state
+- who is the nodal officer for [Karnataka](states) state
+- how do i contact [Karnataka](states) state
+- whom should i contact for [Kerala](states) state
+- who is the nodal officer for [Kerala](states) state
+- how do i contact [Kerala](states) state
+- whom should i contact for [Ladakh](states) state
+- who is the nodal officer for [Ladakh](states) state
+- how do i contact [Ladakh](states) state
+- whom should i contact for [Madhya Pradesh](states) state
+- who is the nodal officer for [Madhya Pradesh](states) state
+- how do i contact [Madhya Pradesh](states) state
+- whom should i contact for [Maharashtra](states) state
+- who is the nodal officer for [Maharashtra](states) state
+- how do i contact [Maharashtra](states) state
+- whom should i contact for [Manipur](states) state
+- who is the nodal officer for [Manipur](states) state
+- how do i contact [Manipur](states) state
+- whom should i contact for [Meghalaya](states) state
+- who is the nodal officer for [Meghalaya](states) state
+- how do i contact [Meghalaya](states) state
+- whom should i contact for [Mizoram](states) state
+- who is the nodal officer for [Mizoram](states) state
+- how do i contact [Mizoram](states) state
+- whom should i contact for [Nagaland](states) state
+- who is the nodal officer for [Nagaland](states) state
+- how do i contact [Nagaland](states) state
+- whom should i contact for [NCT of Delhi](states) state
+- who is the nodal officer for [NCT of Delhi](states) state
+- how do i contact [NCT of Delhi](states) state
+- whom should i contact for [Odisha](states) state
+- who is the nodal officer for [Odisha](states) state
+- how do i contact [Odisha](states) state
+- whom should i contact for [Puducherry](states) state
+- who is the nodal officer for [Puducherry](states) state
+- how do i contact [Puducherry](states) state
+- whom should i contact for [Punjab](states) state
+- who is the nodal officer for [Punjab](states) state
+- how do i contact [Punjab](states) state
+- whom should i contact for [Rajasthan](states) state
+- who is the nodal officer for [Rajasthan](states) state
+- how do i contact [Rajasthan](states) state
+- whom should i contact for [Sikkim](states) state
+- who is the nodal officer for [Sikkim](states) state
+- how do i contact [Sikkim](states) state
+- whom should i contact for [Tamil Nadu](states) state
+- who is the nodal officer for [Tamil Nadu](states) state
+- how do i contact [Tamil Nadu](states) state
+- whom should i contact for [Telangana](states) state
+- who is the nodal officer for [Telangana](states) state
+- how do i contact [Telangana](states) state
+- whom should i contact for [Tripura](states) state
+- who is the nodal officer for [Tripura](states) state
+- how do i contact [Tripura](states) state
+- whom should i contact for [Union Territory of Chandigarh](states) state
+- who is the nodal officer for [Union Territory of Chandigarh](states) state
+- how do i contact [Union Territory of Chandigarh](states) state
+- whom should i contact for [Union Territory of Dadra & Nagar Haveli](states) state
+- who is the nodal officer for [Union Territory of Dadra & Nagar Haveli](states) state
+- how do i contact [Union Territory of Dadra & Nagar Haveli](states) state
+- whom should i contact for [Union Territory of Daman & Diu](states) state
+- who is the nodal officer for [Union Territory of Daman & Diu](states) state
+- how do i contact [Union Territory of Daman & Diu](states) state
+- whom should i contact for [Union Territory of Lakshadweep](states) state
+- who is the nodal officer for [Union Territory of Lakshadweep](states) state
+- how do i contact [Union Territory of Lakshadweep](states) state
+- whom should i contact for [Uttar Pradesh](states) state
+- who is the nodal officer for [Uttar Pradesh](states) state
+- how do i contact [Uttar Pradesh](states) state
+- whom should i contact for [Uttarakhand](states) state
+- who is the nodal officer for [Uttarakhand](states) state
+- how do i contact [Uttarakhand](states) state
+- whom should i contact for [West Bengal](states) state
+- who is the nodal officer for [West Bengal](states) state
+- how do i contact [West Bengal](states) state
+
+## intent:department_nodal_officer
+- whom should i contact in [Administrative Reforms and PG](departments) department
+- who is the nodal officer in [Administrative Reforms and PG](departments) department
+- how do i contact [Administrative Reforms and PG](departments) department
+- contact details of [Administrative Reforms and PG](departments) department
+- whom should i contact in [Agriculture and Cooperation](departments) department
+- who is the nodal officer in [Agriculture and Cooperation](departments) department
+- how do i contact [Agriculture and Cooperation](departments) department
+- contact details of [Agriculture and Cooperation](departments) department
+- whom should i contact in [Agriculture Research and Education](departments) department
+- who is the nodal officer in [Agriculture Research and Education](departments) department
+- how do i contact [Agriculture Research and Education](departments) department
+- contact details of [Agriculture Research and Education](departments) department
+- whom should i contact in [Animal Husbandry, Dairying](departments) department
+- who is the nodal officer in [Animal Husbandry, Dairying](departments) department
+- how do i contact [Animal Husbandry, Dairying](departments) department
+- contact details of [Animal Husbandry, Dairying](departments) department
+- whom should i contact in [Atomic Energy](departments) department
+- who is the nodal officer in [Atomic Energy](departments) department
+- how do i contact [Atomic Energy](departments) department
+- contact details of [Atomic Energy](departments) department
+- whom should i contact in [Ayush](departments) department
+- who is the nodal officer in [Ayush](departments) department
+- how do i contact [Ayush](departments) department
+- contact details of [Ayush](departments) department
+- whom should i contact in [Bio Technology](departments) department
+- who is the nodal officer in [Bio Technology](departments) department
+- how do i contact [Bio Technology](departments) department
+- contact details of [Bio Technology](departments) department
+- whom should i contact in [Central Board of Direct Taxes Income Tax](departments) department
+- who is the nodal officer in [Central Board of Direct Taxes Income Tax](departments) department
+- how do i contact [Central Board of Direct Taxes Income Tax](departments) department
+- contact details of [Central Board of Direct Taxes Income Tax](departments) department
+- whom should i contact in [Central Board of Excise and Customs](departments) department
+- who is the nodal officer in [Central Board of Excise and Customs](departments) department
+- how do i contact [Central Board of Excise and Customs](departments) department
+- contact details of [Central Board of Excise and Customs](departments) department
+- whom should i contact in [Chemicals and Petrochemicals](departments) department
+- who is the nodal officer in [Chemicals and Petrochemicals](departments) department
+- how do i contact [Chemicals and Petrochemicals](departments) department
+- contact details of [Chemicals and Petrochemicals](departments) department
+- whom should i contact in [Civil Aviation](departments) department
+- who is the nodal officer in [Civil Aviation](departments) department
+- how do i contact [Civil Aviation](departments) department
+- contact details of [Civil Aviation](departments) department
+- whom should i contact in [Coal](departments) department
+- who is the nodal officer in [Coal](departments) department
+- how do i contact [Coal](departments) department
+- contact details of [Coal](departments) department
+- whom should i contact in [Commerce](departments) department
+- who is the nodal officer in [Commerce](departments) department
+- how do i contact [Commerce](departments) department
+- contact details of [Commerce](departments) department
+- whom should i contact in [Consumer Affairs](departments) department
+- who is the nodal officer in [Consumer Affairs](departments) department
+- how do i contact [Consumer Affairs](departments) department
+- contact details of [Consumer Affairs](departments) department
+- whom should i contact in [Corporate Affairs](departments) department
+- who is the nodal officer in [Corporate Affairs](departments) department
+- how do i contact [Corporate Affairs](departments) department
+- contact details of [Corporate Affairs](departments) department
+- whom should i contact in [Culture](departments) department
+- who is the nodal officer in [Culture](departments) department
+- how do i contact [Culture](departments) department
+- contact details of [Culture](departments) department
+- whom should i contact in [Defence](departments) department
+- who is the nodal officer in [Defence](departments) department
+- how do i contact [Defence](departments) department
+- contact details of [Defence](departments) department
+- whom should i contact in [Defence Finance](departments) department
+- who is the nodal officer in [Defence Finance](departments) department
+- how do i contact [Defence Finance](departments) department
+- contact details of [Defence Finance](departments) department
+- whom should i contact in [Defence Production](departments) department
+- who is the nodal officer in [Defence Production](departments) department
+- how do i contact [Defence Production](departments) department
+- contact details of [Defence Production](departments) department
+- whom should i contact in [Defence Research and Development](departments) department
+- who is the nodal officer in [Defence Research and Development](departments) department
+- how do i contact [Defence Research and Development](departments) department
+- contact details of [Defence Research and Development](departments) department
+- whom should i contact in [Development of North Eastern Region](departments) department
+- who is the nodal officer in [Development of North Eastern Region](departments) department
+- how do i contact [Development of North Eastern Region](departments) department
+- contact details of [Development of North Eastern Region](departments) department
+- whom should i contact in [Drinking Water and Sanitation](departments) department
+- who is the nodal officer in [Drinking Water and Sanitation](departments) department
+- how do i contact [Drinking Water and Sanitation](departments) department
+- contact details of [Drinking Water and Sanitation](departments) department
+- whom should i contact in [Earth Sciences](departments) department
+- who is the nodal officer in [Earth Sciences](departments) department
+- how do i contact [Earth Sciences](departments) department
+- contact details of [Earth Sciences](departments) department
+- whom should i contact in [Economic Affairs](departments) department
+- who is the nodal officer in [Economic Affairs](departments) department
+- how do i contact [Economic Affairs](departments) department
+- contact details of [Economic Affairs](departments) department
+- whom should i contact in [Electronics & Information Technology](departments) department
+- who is the nodal officer in [Electronics & Information Technology](departments) department
+- how do i contact [Electronics & Information Technology](departments) department
+- contact details of [Electronics & Information Technology](departments) department
+- whom should i contact in [Empowerment of Persons with Disabilities](departments) department
+- who is the nodal officer in [Empowerment of Persons with Disabilities](departments) department
+- how do i contact [Empowerment of Persons with Disabilities](departments) department
+- contact details of [Empowerment of Persons with Disabilities](departments) department
+- whom should i contact in [Environment, Forest and Climate Change](departments) department
+- who is the nodal officer in [Environment, Forest and Climate Change](departments) department
+- how do i contact [Environment, Forest and Climate Change](departments) department
+- contact details of [Environment, Forest and Climate Change](departments) department
+- whom should i contact in [Ex Servicemen Welfare](departments) department
+- who is the nodal officer in [Ex Servicemen Welfare](departments) department
+- how do i contact [Ex Servicemen Welfare](departments) department
+- contact details of [Ex Servicemen Welfare](departments) department
+- whom should i contact in [Expenditure](departments) department
+- who is the nodal officer in [Expenditure](departments) department
+- how do i contact [Expenditure](departments) department
+- contact details of [Expenditure](departments) department
+- whom should i contact in [External Affairs](departments) department
+- who is the nodal officer in [External Affairs](departments) department
+- how do i contact [External Affairs](departments) department
+- contact details of [External Affairs](departments) department
+- whom should i contact in [Fertilizers](departments) department
+- who is the nodal officer in [Fertilizers](departments) department
+- how do i contact [Fertilizers](departments) department
+- contact details of [Fertilizers](departments) department
+- whom should i contact in [Financial Services Banking Division](departments) department
+- who is the nodal officer in [Financial Services Banking Division](departments) department
+- how do i contact [Financial Services Banking Division](departments) department
+- contact details of [Financial Services Banking Division](departments) department
+- whom should i contact in [Financial Services Insurance Division](departments) department
+- who is the nodal officer in [Financial Services Insurance Division](departments) department
+- how do i contact [Financial Services Insurance Division](departments) department
+- contact details of [Financial Services Insurance Division](departments) department
+- whom should i contact in [Financial Services Pension Reforms](departments) department
+- who is the nodal officer in [Financial Services Pension Reforms](departments) department
+- how do i contact [Financial Services Pension Reforms](departments) department
+- contact details of [Financial Services Pension Reforms](departments) department
+- whom should i contact in [Fisheries](departments) department
+- who is the nodal officer in [Fisheries](departments) department
+- how do i contact [Fisheries](departments) department
+- contact details of [Fisheries](departments) department
+- whom should i contact in [Food and Public Distribution](departments) department
+- who is the nodal officer in [Food and Public Distribution](departments) department
+- how do i contact [Food and Public Distribution](departments) department
+- contact details of [Food and Public Distribution](departments) department
+- whom should i contact in [Food Processing Industries](departments) department
+- who is the nodal officer in [Food Processing Industries](departments) department
+- how do i contact [Food Processing Industries](departments) department
+- contact details of [Food Processing Industries](departments) department
+- whom should i contact in [Health & Family Welfare](departments) department
+- who is the nodal officer in [Health & Family Welfare](departments) department
+- how do i contact [Health & Family Welfare](departments) department
+- contact details of [Health & Family Welfare](departments) department
+- whom should i contact in [Health Research](departments) department
+- who is the nodal officer in [Health Research](departments) department
+- how do i contact [Health Research](departments) department
+- contact details of [Health Research](departments) department
+- whom should i contact in [Heavy Industry](departments) department
+- who is the nodal officer in [Heavy Industry](departments) department
+- how do i contact [Heavy Industry](departments) department
+- contact details of [Heavy Industry](departments) department
+- whom should i contact in [Higher Education](departments) department
+- who is the nodal officer in [Higher Education](departments) department
+- how do i contact [Higher Education](departments) department
+- contact details of [Higher Education](departments) department
+- whom should i contact in [Home Affairs](departments) department
+- who is the nodal officer in [Home Affairs](departments) department
+- how do i contact [Home Affairs](departments) department
+- contact details of [Home Affairs](departments) department
+- whom should i contact in [Housing and Urban Affairs](departments) department
+- who is the nodal officer in [Housing and Urban Affairs](departments) department
+- how do i contact [Housing and Urban Affairs](departments) department
+- contact details of [Housing and Urban Affairs](departments) department
+- whom should i contact in [Industrial Policy & Promotion](departments) department
+- who is the nodal officer in [Industrial Policy & Promotion](departments) department
+- how do i contact [Industrial Policy & Promotion](departments) department
+- contact details of [Industrial Policy & Promotion](departments) department
+- whom should i contact in [Information and Broadcasting](departments) department
+- who is the nodal officer in [Information and Broadcasting](departments) department
+- how do i contact [Information and Broadcasting](departments) department
+- contact details of [Information and Broadcasting](departments) department
+- whom should i contact in [Investment & Public Asset Management](departments) department
+- who is the nodal officer in [Investment & Public Asset Management](departments) department
+- how do i contact [Investment & Public Asset Management](departments) department
+- contact details of [Investment & Public Asset Management](departments) department
+- whom should i contact in [Justice](departments) department
+- who is the nodal officer in [Justice](departments) department
+- how do i contact [Justice](departments) department
+- contact details of [Justice](departments) department
+- whom should i contact in [Labour and Employment](departments) department
+- who is the nodal officer in [Labour and Employment](departments) department
+- how do i contact [Labour and Employment](departments) department
+- contact details of [Labour and Employment](departments) department
+- whom should i contact in [Land Resources](departments) department
+- who is the nodal officer in [Land Resources](departments) department
+- how do i contact [Land Resources](departments) department
+- contact details of [Land Resources](departments) department
+- whom should i contact in [Legal Affairs](departments) department
+- who is the nodal officer in [Legal Affairs](departments) department
+- how do i contact [Legal Affairs](departments) department
+- contact details of [Legal Affairs](departments) department
+- whom should i contact in [Legislative Department](departments) department
+- who is the nodal officer in [Legislative Department](departments) department
+- how do i contact [Legislative Department](departments) department
+- contact details of [Legislative Department](departments) department
+- whom should i contact in [Micro Small and Medium  Enterprises](departments) department
+- who is the nodal officer in [Micro Small and Medium  Enterprises](departments) department
+- how do i contact [Micro Small and Medium  Enterprises](departments) department
+- contact details of [Micro Small and Medium  Enterprises](departments) department
+- whom should i contact in [Mines](departments) department
+- who is the nodal officer in [Mines](departments) department
+- how do i contact [Mines](departments) department
+- contact details of [Mines](departments) department
+- whom should i contact in [Minority Affairs](departments) department
+- who is the nodal officer in [Minority Affairs](departments) department
+- how do i contact [Minority Affairs](departments) department
+- contact details of [Minority Affairs](departments) department
+- whom should i contact in [New and Renewable Energy](departments) department
+- who is the nodal officer in [New and Renewable Energy](departments) department
+- how do i contact [New and Renewable Energy](departments) department
+- contact details of [New and Renewable Energy](departments) department
+- whom should i contact in [NITI Aayog](departments) department
+- who is the nodal officer in [NITI Aayog](departments) department
+- how do i contact [NITI Aayog](departments) department
+- contact details of [NITI Aayog](departments) department
+- whom should i contact in [O/o the Comptroller & Auditor General of India](departments) department
+- who is the nodal officer in [O/o the Comptroller & Auditor General of India](departments) department
+- how do i contact [O/o the Comptroller & Auditor General of India](departments) department
+- contact details of [O/o the Comptroller & Auditor General of India](departments) department
+- whom should i contact in [Official Language](departments) department
+- who is the nodal officer in [Official Language](departments) department
+- how do i contact [Official Language](departments) department
+- contact details of [Official Language](departments) department
+- whom should i contact in [Panchayati Raj](departments) department
+- who is the nodal officer in [Panchayati Raj](departments) department
+- how do i contact [Panchayati Raj](departments) department
+- contact details of [Panchayati Raj](departments) department
+- whom should i contact in [Parliamentary Affairs](departments) department
+- who is the nodal officer in [Parliamentary Affairs](departments) department
+- how do i contact [Parliamentary Affairs](departments) department
+- contact details of [Parliamentary Affairs](departments) department
+- whom should i contact in [Pensions and Pensioners Welfare](departments) department
+- who is the nodal officer in [Pensions and Pensioners Welfare](departments) department
+- how do i contact [Pensions and Pensioners Welfare](departments) department
+- contact details of [Pensions and Pensioners Welfare](departments) department
+- whom should i contact in [Personnel and Training](departments) department
+- who is the nodal officer in [Personnel and Training](departments) department
+- how do i contact [Personnel and Training](departments) department
+- contact details of [Personnel and Training](departments) department
+- whom should i contact in [Petroleum and Natural Gas](departments) department
+- who is the nodal officer in [Petroleum and Natural Gas](departments) department
+- how do i contact [Petroleum and Natural Gas](departments) department
+- contact details of [Petroleum and Natural Gas](departments) department
+- whom should i contact in [Pharmaceutical](departments) department
+- who is the nodal officer in [Pharmaceutical](departments) department
+- how do i contact [Pharmaceutical](departments) department
+- contact details of [Pharmaceutical](departments) department
+- whom should i contact in [Posts](departments) department
+- who is the nodal officer in [Posts](departments) department
+- how do i contact [Posts](departments) department
+- contact details of [Posts](departments) department
+- whom should i contact in [Power](departments) department
+- who is the nodal officer in [Power](departments) department
+- how do i contact [Power](departments) department
+- contact details of [Power](departments) department
+- whom should i contact in [Public Enterprises](departments) department
+- who is the nodal officer in [Public Enterprises](departments) department
+- how do i contact [Public Enterprises](departments) department
+- contact details of [Public Enterprises](departments) department
+- whom should i contact in [Railways](departments) department
+- who is the nodal officer in [Railways](departments) department
+- how do i contact [Railways](departments) department
+- contact details of [Railways](departments) department
+- whom should i contact in [Revenue](departments) department
+- who is the nodal officer in [Revenue](departments) department
+- how do i contact [Revenue](departments) department
+- contact details of [Revenue](departments) department
+- whom should i contact in [Road Transport and Highways](departments) department
+- who is the nodal officer in [Road Transport and Highways](departments) department
+- how do i contact [Road Transport and Highways](departments) department
+- contact details of [Road Transport and Highways](departments) department
+- whom should i contact in [Rural Development](departments) department
+- who is the nodal officer in [Rural Development](departments) department
+- how do i contact [Rural Development](departments) department
+- contact details of [Rural Development](departments) department
+- whom should i contact in [School Education and Literacy](departments) department
+- who is the nodal officer in [School Education and Literacy](departments) department
+- how do i contact [School Education and Literacy](departments) department
+- contact details of [School Education and Literacy](departments) department
+- whom should i contact in [Science and Technology](departments) department
+- who is the nodal officer in [Science and Technology](departments) department
+- how do i contact [Science and Technology](departments) department
+- contact details of [Science and Technology](departments) department
+- whom should i contact in [Scientific & Industrial Research](departments) department
+- who is the nodal officer in [Scientific & Industrial Research](departments) department
+- how do i contact [Scientific & Industrial Research](departments) department
+- contact details of [Scientific & Industrial Research](departments) department
+- whom should i contact in [Shipping](departments) department
+- who is the nodal officer in [Shipping](departments) department
+- how do i contact [Shipping](departments) department
+- contact details of [Shipping](departments) department
+- whom should i contact in [Skill Development and Entrepreneurship](departments) department
+- who is the nodal officer in [Skill Development and Entrepreneurship](departments) department
+- how do i contact [Skill Development and Entrepreneurship](departments) department
+- contact details of [Skill Development and Entrepreneurship](departments) department
+- whom should i contact in [Social Justice and Empowerment](departments) department
+- who is the nodal officer in [Social Justice and Empowerment](departments) department
+- how do i contact [Social Justice and Empowerment](departments) department
+- contact details of [Social Justice and Empowerment](departments) department
+- whom should i contact in [Space](departments) department
+- who is the nodal officer in [Space](departments) department
+- how do i contact [Space](departments) department
+- contact details of [Space](departments) department
+- whom should i contact in [Sports](departments) department
+- who is the nodal officer in [Sports](departments) department
+- how do i contact [Sports](departments) department
+- contact details of [Sports](departments) department
+- whom should i contact in [Statistics and Programme Implementation](departments) department
+- who is the nodal officer in [Statistics and Programme Implementation](departments) department
+- how do i contact [Statistics and Programme Implementation](departments) department
+- contact details of [Statistics and Programme Implementation](departments) department
+- whom should i contact in [Steel](departments) department
+- who is the nodal officer in [Steel](departments) department
+- how do i contact [Steel](departments) department
+- contact details of [Steel](departments) department
+- whom should i contact in [Telecommunications](departments) department
+- who is the nodal officer in [Telecommunications](departments) department
+- how do i contact [Telecommunications](departments) department
+- contact details of [Telecommunications](departments) department
+- whom should i contact in [Textiles](departments) department
+- who is the nodal officer in [Textiles](departments) department
+- how do i contact [Textiles](departments) department
+- contact details of [Textiles](departments) department
+- whom should i contact in [Tourism](departments) department
+- who is the nodal officer in [Tourism](departments) department
+- how do i contact [Tourism](departments) department
+- contact details of [Tourism](departments) department
+- whom should i contact in [Tribal Affairs](departments) department
+- who is the nodal officer in [Tribal Affairs](departments) department
+- how do i contact [Tribal Affairs](departments) department
+- contact details of [Tribal Affairs](departments) department
+- whom should i contact in [Unique Identification Authority of India](departments) department
+- who is the nodal officer in [Unique Identification Authority of India](departments) department
+- how do i contact [Unique Identification Authority of India](departments) department
+- contact details of [Unique Identification Authority of India](departments) department
+- whom should i contact in [Water Resources, River Development & Ganga Rejuvenuation](departments) department
+- who is the nodal officer in [Water Resources, River Development & Ganga Rejuvenuation](departments) department
+- how do i contact [Water Resources, River Development & Ganga Rejuvenuation](departments) department
+- contact details of [Water Resources, River Development & Ganga Rejuvenuation](departments) department
+- whom should i contact in [Women and Child Development](departments) department
+- who is the nodal officer in [Women and Child Development](departments) department
+- how do i contact [Women and Child Development](departments) department
+- contact details of [Women and Child Development](departments) department
+- whom should i contact in [Youth Affairs](departments) department
+- who is the nodal officer in [Youth Affairs](departments) department
+- how do i contact [Youth Affairs](departments) department
+- contact details of [Youth Affairs](departments) department
+
+## lookup:departments
+  data/lookup_tables/departments.txt
+
+## lookup:states
+  data/lookup_tables/states.txt

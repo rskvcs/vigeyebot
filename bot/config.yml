@@ -1,0 +1,13 @@
+language: "en"
+pipeline: "supervised_embeddings"
+
+policies:
+  - name: KerasPolicy
+    max_history: 3
+    epochs: 100
+  - name: MemoizationPolicy
+  - name: MappingPolicy
+  - name: FallbackPolicy
+    nlu_threshold: 0.4
+    core_threshold: 0.3
+    fallback_action_name: action_default_fallback
